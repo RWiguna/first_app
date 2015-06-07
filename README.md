@@ -5,4 +5,4 @@ This is the first application for the
 by [Michael Hartl](http://michaelhartl.com/).
 
 Test Update 3
-Test Update 4
+Brand new update
